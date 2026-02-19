@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+
+# User settings
+*.xcuserdata
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+
+# Logs
+*.log
+
+# App Store Connect
+*.ipa
+
+# Firebase
+GoogleService-Info.plist
+
+# SwiftPM resolved
+Package.resolved
+
+# IDE
+.idea/
+.vscode/
